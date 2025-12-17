@@ -1,0 +1,1 @@
+https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-debian12-8.2.2.tgz

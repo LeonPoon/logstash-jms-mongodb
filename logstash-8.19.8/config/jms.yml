@@ -1,0 +1,7 @@
+activemq:
+  :factory: org.apache.activemq.ActiveMQConnectionFactory
+  :broker_url: failover:(tcp://localhost:61616)?initialReconnectDelay=2000&maxReconnectDelay=10000&useExponentialBackOff=false
+#  :username: admin
+#  :password: admin
+  :require_jars:
+    - lib/activemq-all-5.19.1.jar

@@ -1,0 +1,1 @@
+https://repo1.maven.org/maven2/org/apache/activemq/activemq-all/5.19.1/activemq-all-5.19.1.jar
