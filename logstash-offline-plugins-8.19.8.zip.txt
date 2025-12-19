@@ -1,3 +1,0 @@
-Offline package created at: /tmp/logstash-offline-plugins-8.19.8.zip
-
-You can install it with this command `bin/logstash-plugin install file:///tmp/logstash-offline-plugins-8.19.8.zip`
